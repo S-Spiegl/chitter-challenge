@@ -1,7 +1,5 @@
 # Chitter Challenge
 
-test
-
 Notes for coach:
 
 I found this one extremely challenging.
